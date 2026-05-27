@@ -1,0 +1,4 @@
+reports/*.html linguist-vendored
+reports/*.png linguist-vendored
+models/*.pkl linguist-vendored
+data/*.csv linguist-vendored
