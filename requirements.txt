@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+streamlit
+sentence-transformers
+transformers
+torch
+shap
+lime
+fairlearn
+fastapi
+uvicorn
+joblib
+python-dotenv

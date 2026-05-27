@@ -1,0 +1,9 @@
+services:
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: llm-hallucination-dashboard
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
